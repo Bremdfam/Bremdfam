@@ -7,3 +7,4 @@ I am a student at NAIT and I'm taking the Game Programming Development path.
 ![My Skills](https://skillicons.dev/icons?i=js,css,react,materialui,nextjs,nodejs,npm,vscode)
 
 
+
